@@ -11,5 +11,8 @@
     "nodejs"
   ],
   "author": "Dylan Pee",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
