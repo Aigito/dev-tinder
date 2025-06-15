@@ -7,12 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "nodejs",
-    "javascript"
+    "javascript",
+    "nodejs"
   ],
   "author": "Dylan Pee",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^5.1.0"
-  }
+  "license": "ISC"
 }
